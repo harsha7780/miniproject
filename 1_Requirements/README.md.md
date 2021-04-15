@@ -32,7 +32,7 @@
 ### Defining Our System
 
 ### SWOT Analysis
-![ ](C:\Users\w10\Downloads\SWOT.png)
+![](SWOT_analysis.png)
 
  ###  4W's and 1'H
 
@@ -56,7 +56,7 @@ As it is globalised, it can be used anywhere and all the asserts can viewed whic
 Buyers can view/ edit/ delete their listed products and can make it produced for the delivery
 
 ### Detail Requirements:
-![ ](C:\Users\w10\Downloads\Defining our system.png)
+![](Defining_our_system.png)
 
 
 #### High Level Requirements:
