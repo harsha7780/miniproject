@@ -2,7 +2,7 @@
 ## Images
 
 ### Login
-![](Login.png)
+![](Login.PNG)
 
 ### Adding products
 ![](Adding_products.PNG)
