@@ -5,22 +5,22 @@
 ![](Login.png)
 
 ### Adding products
-![](Adding_products.png)
+![](Adding_products.PNG)
 
 ### Deleting products
-![](Deleting_products.png)
+![](Deleting_products.PNG)
 
 ### Reading items
-![](Reading_items.png)
+![](Reading_items.PNG)
 
 ### Editing items
-![](Editing_items.png)
+![](Editing_items.PNG)
 
 ### Searching products
-![](Searching_products.png)
+![](Searching_products.PNG)
 
 ### Exit
-![](Exit.png)
+![](Exit.PNG)
 
 
 ## Video
